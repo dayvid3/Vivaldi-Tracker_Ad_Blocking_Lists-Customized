@@ -22,7 +22,6 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
   - EasyList
   - English (Peter Lowe’s List)
   - Remove annoyances, can break sites (Fanboy's Annoyance List)
-  - Remove cookie warnings (Easylist Cookie List)
 - Built-In Regions / Languages (Some countries with lots of bad actors, and Japanese for possible Mange / Anime sites):
   - Chinese (EasyList China)
   - Japanese (もちフィルタ（広告ブロック）)
