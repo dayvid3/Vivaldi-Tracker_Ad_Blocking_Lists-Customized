@@ -13,8 +13,8 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
   - [EasyPrivacy](https://downloads.vivaldi.com/easylist/easyprivacy-current.txt)
 
 - **(Add)** Custom Tracker Blocking Sources:
-  - [AdGuard CNAME disguised trackers list](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt)
-
+  - AdGuard CNAME disguised trackers list
+    - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
 ## Ad Blocking Sources
 
 - **(Enable)** Built-In Ad Blocking Sources:
@@ -30,5 +30,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
   - [Russian (RU AdList)](https://easylist-downloads.adblockplus.org/advblock.txt)
 
 - **(Add)** Custom Ad Blocking Sources:
-  - [oisd big](https://big.oisd.nl/)
-  - [RU AdList: Counters](https://easylist-downloads.adblockplus.org/cntblock.txt) (Compliments RU AdList on sites like Yandex Search)
+  - oisd big
+    - https://big.oisd.nl/
+  - RU AdList: Counters (Compliments RU AdList on sites like Yandex Search)
+    - https://easylist-downloads.adblockplus.org/cntblock.txt
