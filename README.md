@@ -26,7 +26,6 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
 - **(Enable)** Built-In Regions / Languages (Some countries with lots of bad actors, and Japanese for possible Mange / Anime sites):
   - [Chinese (EasyList China)](https://easylist-downloads.adblockplus.org/easylistchina.txt)
   - [Japanese (もちフィルタ（広告ブロック）)](https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/mochi_filter.txt)
-    - [Japanese (もちフィルタ（mobile filter）)](https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt)
   - [Russian (RU AdList)](https://easylist-downloads.adblockplus.org/advblock.txt)
 
 - **(Add)** Custom Ad Blocking Sources:
