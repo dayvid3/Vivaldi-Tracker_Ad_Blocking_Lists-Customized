@@ -1,5 +1,5 @@
 # Vivaldi: Tracker / Ad Blocking Lists (Customized)
-This is the current collection of Tracker and Ad Blocking sources that I am using with Vivaldi's native ad blocker, to enhance its effectiveness. I’ve tried to minimize sources with overlapping rules [See below](#overlapredundancy-check). Enable any additional Regions / Language sources that are relevant to your needs. 
+This is the current collection of Tracker and Ad Blocking sources that I am using with Vivaldi's native ad blocker, to enhance its effectiveness. I’ve tried to minimize sources with overlapping rules [See below](#evaluating-sources). Enable any additional Regions / Language sources that are relevant to your needs. 
 
 Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tracking-and-ad-blocking/) guide can help you get started (There are mobile guides as well). Once you get to that point, below are my sources of choice.
 
@@ -34,5 +34,9 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
   - RU AdList: Counters (Compliments RU AdList on sites like Yandex Search)
     - https://easylist-downloads.adblockplus.org/cntblock.txt
 
-## Overlap/Redundancy Check
-WIP
+## Evaluating Sources
+Ironically, I'm using a uBlock Origin feature to check if different filter lists are being utilized enough to justify adding each list, or if some lists have so much overlap, that they are redundant.  I disable all the existing uBO filters and import the native Vivaldi sources and custom filters.  As shown below, you can see how many rules from each list are being utilized.
+
+*Note: If lists have overlapping rules, the first list enabled will use those rules, and the next list will not show those rules as used.  If the first list is disabled, the second list will change and show those rules now being used.  If the first list is re-enabled, it will be the one that shows the overlapping rules as not used.
+
+![Alt Text](Overlap_Check.png)
