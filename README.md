@@ -1,5 +1,5 @@
 # Vivaldi: Tracker / Ad Blocking Lists (Customized)
-This is the current collection of Tracker and Ad Blocking sources that I am using with Vivaldi's native ad blocker, to enhance its effectiveness. I’ve tried to minimize sources with overlapping rules. Enable any additional Regions / Language sources that are relevant to your needs. 
+This is the current collection of Tracker and Ad Blocking sources that I am using with Vivaldi's native ad blocker, to enhance its effectiveness. I’ve tried to minimize sources with overlapping rules [See below](#overlapredundancy-check). Enable any additional Regions / Language sources that are relevant to your needs. 
 
 Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tracking-and-ad-blocking/) guide can help you get started (There are mobile guides as well). Once you get to that point, below are my sources of choice.
 
@@ -33,3 +33,6 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
     - https://big.oisd.nl/
   - RU AdList: Counters (Compliments RU AdList on sites like Yandex Search)
     - https://easylist-downloads.adblockplus.org/cntblock.txt
+
+## Overlap/Redundancy Check
+WIP
