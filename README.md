@@ -30,7 +30,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
 
 - **(Add)** Custom Ad Blocking Sources:
   - Hagezi's Pro DNS Blocklist
-    - [https://big.oisd.nl/](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
+    - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
   - RU AdList: Counters (Compliments RU AdList on sites like Yandex Search)
     - https://easylist-downloads.adblockplus.org/cntblock.txt
 
