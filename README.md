@@ -29,8 +29,8 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
   - [Russian (RU AdList)](https://easylist-downloads.adblockplus.org/advblock.txt)
 
 - **(Add)** Custom Ad Blocking Sources:
-  - oisd big
-    - https://big.oisd.nl/
+  - Hagezi's Pro DNS Blocklist
+    - [https://big.oisd.nl/](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
   - RU AdList: Counters (Compliments RU AdList on sites like Yandex Search)
     - https://easylist-downloads.adblockplus.org/cntblock.txt
 
