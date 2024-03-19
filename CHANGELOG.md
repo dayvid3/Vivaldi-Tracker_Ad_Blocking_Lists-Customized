@@ -4,7 +4,7 @@
 
 ### 1.1 (03-19-2024)
 
-* I've swapped out the Custom Ad Blocking source OISD for Hagezi's Pro DNS Blocklist. It's another big list. Opinions suggest that it is more reliable, effective, and curated more discerningly.
+* I've swapped out the custom ad blocking source [OISD](https://big.oisd.nl/) for [Hagezi's Pro DNS Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt). It's another big list. Opinions suggest that it is more reliable, effective, and curated more discerningly.
 
 * More information about the Hagezi lists can be found at [Hagezi's GitHub](https://github.com/hagezi/dns-blocklists/blob/main/README.md)
 
