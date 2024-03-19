@@ -8,4 +8,4 @@
 
 * More information about the Hagezi lists can be found at [Hagezi's GitHub](https://github.com/hagezi/dns-blocklists/blob/main/README.md)
 
-* So far, I've found the Multi PRO version to be the most effective. There is a Pro++ and an Ultimate version, but I've found that even just going up to the Pro++ version causes major response issues. There were other random sites with an extreme slowdown, but Google Apps sites such as Drive and Docs are an example. It could be a combination of lists or other factors, but the Pro version is what I'd recommend.
+* So far, I've found the Multi PRO version to be the most effective. There is a Pro++ and an Ultimate version, but I've found that even just going up to the Pro++ version causes major response issues. There were other random sites with an extreme slowdown, but Google Apps sites such as Drive and Docs are an example. It could be a combination of lists or other factors, but the Pro version is what's recommended.
