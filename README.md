@@ -31,9 +31,9 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
 - **(Add)** Custom Ad Blocking Sources:
   - AdGuard Popups filter
     - https://filters.adtidy.org/extension/ublock/filters/19.txt
-  - Hagezi's Pro DNS Blocklist (Replaces OISD)
+  - Hagezi's Pro DNS Blocklist *(Replaces OISD)*
     - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
-  - RU AdList: Counters (Compliments RU AdList on sites like Yandex Search)
+  - RU AdList: Counters *(Compliments RU AdList on sites like Yandex Search)*
     - https://easylist-downloads.adblockplus.org/cntblock.txt
 
 ## Evaluating Sources
