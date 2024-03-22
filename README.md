@@ -34,6 +34,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
       - [CHANGELOG](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized/blob/main/CHANGELOG.md#12-03-22-2024)
   - Hagezi's Pro DNS Blocklist *(Replaces OISD)*
     - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+      - [CHANGELOG](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized/blob/main/CHANGELOG.md#11-03-19-2024)
   - RU AdList: Counters *(Compliments RU AdList on sites like Yandex Search)*
     - https://easylist-downloads.adblockplus.org/cntblock.txt
 
