@@ -5,7 +5,6 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
 
 - Disable all the **Built-In** rules except those listed below. You will then have to enable the sources that aren’t on by default.
 - Manually add the **Custom** sources in their appropriate sections - Tracker Blocking or Ad Blocking
-- You can view updates and explanations in the [Changelog](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized/blob/main/CHANGELOG.md)
 
 ## Tracker Blocking Sources
 
