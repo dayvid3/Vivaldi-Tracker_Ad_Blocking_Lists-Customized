@@ -1,8 +1,8 @@
-### 1.0 (02-25-2024)
+### v1.0 (02-25-2024)
 
 * Initial release
 
-### 1.1 (03-19-2024)
+### v1.1 (03-19-2024)
 
 * I've swapped out the custom ad blocking source [OISD](https://big.oisd.nl/) for [Hagezi's Pro DNS Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt). It's another big list. Opinions suggest that it is more reliable, effective, and curated more discerningly.
 
@@ -10,7 +10,7 @@
 
 * So far, I've found the Multi PRO version to be the most effective. There is a Pro++ and an Ultimate version, but I've found that even just going up to the Pro++ version causes major response issues. There were other random sites with an extreme slowdown, but Google Apps sites such as Drive and Docs are an example. It could be a combination of lists or other factors, but the Pro version is what's recommended.
 
-### 1.2 (03-22-2024)
+### v1.2 (03-22-2024)
 
 * I've added the custom ad blocking source [AdGuard Popups filter](https://filters.adtidy.org/extension/ublock/filters/19.txt)
 * It has been great at removing those impenetrable 'Disable your ad blocker' type of overlays that won't allow you to continue.  It's worked on the few that I've encountered on the desktop and has been amazing on the mobile version, where those anti-adbock pop-ups seem much more prevalent.
