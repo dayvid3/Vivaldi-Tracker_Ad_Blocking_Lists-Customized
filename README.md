@@ -1,10 +1,10 @@
 # Vivaldi: Tracker / Ad Blocking Lists (Customized)
-This is the current collection of Tracker and Ad Blocking sources that I am using with Vivaldi's native ad blocker, to enhance its effectiveness. I’ve tried to minimize sources with overlapping rules [See below](#evaluating-sources). Enable any additional Regions / Language sources that are relevant to your needs. 
+This is the current collection of Tracker and Ad-Blocking sources that I am using with Vivaldi's native ad-blocker, to enhance its effectiveness. I’ve tried to minimize sources with overlapping rules [See below](#evaluating-sources). Enable any additional Regions / Language sources that are relevant to your needs. 
 
 Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tracking-and-ad-blocking/) guide can help you get started (There are mobile guides as well). Once you get to that point, below are my sources of choice.
 
 - Disable all the **Built-In** rules except those listed below. You will then have to enable the sources that aren’t on by default.
-- Manually add the **Custom** sources in their appropriate sections - Tracker Blocking or Ad Blocking
+- Manually add the **Custom** sources in their appropriate sections - Tracker Blocking or Ad-Blocking
 
 ## Tracker Blocking Sources
 
@@ -15,7 +15,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
 - **(Add)** Custom Tracker Blocking Sources:
   - AdGuard CNAME disguised trackers list
     - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
-  - Anti-Facebook List *(Use with Fanboy's Annoyance List is recommended. [See below](#ad-blocking-sources))*
+  - Anti-Facebook List (Recommended to use with Vivaldi's built-in ad-blocking source *Fanboy's Annoyance List*)
     - https://secure.fanboy.co.nz/fanboy-antifacebook.txt
 ## Ad Blocking Sources
 
@@ -35,7 +35,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
     - https://filters.adtidy.org/extension/ublock/filters/19.txt
   - Hagezi's Pro DNS Blocklist *(Replaces OISD)*
     - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
-  - RU AdList: Counters *(Compliments RU AdList on sites like Yandex Search)*
+  - RU AdList: Counters (Compliments *RU AdList* on sites like Yandex Search)
     - https://easylist-downloads.adblockplus.org/cntblock.txt
 
 ## Evaluating Sources
