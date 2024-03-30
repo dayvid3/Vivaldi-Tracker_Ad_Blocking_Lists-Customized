@@ -41,4 +41,4 @@ Ironically, I'm using a uBlock Origin feature to check if different filter lists
 
 *Note: If lists have overlapping rules, the first list enabled will use those rules, and the next list will not show those rules as used.  If the first list is disabled, the second list will change and show those rules now being used.  If the first list is re-enabled, it will be the one that shows the overlapping rules as not used.
 
-![Alt Text](Overlap_Check.png)
+![Alt Text](Screenshots/Overlap_Check.png)
