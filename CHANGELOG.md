@@ -12,7 +12,7 @@
 
 ### v1.2 (03-22-2024)
 
-* I've added the custom ad blocking source [AdGuard Popups filter](https://filters.adtidy.org/extension/ublock/filters/19.txt)
+* Added the custom ad blocking source [AdGuard Popups filter](https://filters.adtidy.org/extension/ublock/filters/19.txt)
 * It has been great at removing those impenetrable 'Disable your ad blocker' type of overlays that won't allow you to continue.  It's worked on the few that I've encountered on the desktop and has been amazing on the mobile version, where those anti-adblock pop-ups seem much more prevalent.
 * It is an AdGuard filter, which is not always completely compatible with Vivaldi.  But I feel that the results outweigh the number of unsupported rules.
 
