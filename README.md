@@ -15,7 +15,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
 - **(Add)** Custom Tracker Blocking Sources:
   - AdGuard CNAME disguised trackers list
     - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
-  - Anti-Facebook List (Use with Vivaldi's built-in ad-blocking source *Fanboy's Annoyance List* enabled is recommended)
+  - Anti-Facebook List (Dependency: Vivaldi's built-in ad-blocking source *Fanboy's Annoyance List* is enabled)
     - https://secure.fanboy.co.nz/fanboy-antifacebook.txt
 ## Ad Blocking Sources
 
@@ -35,7 +35,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
     - https://filters.adtidy.org/extension/ublock/filters/19.txt
   - Hagezi's Pro DNS Blocklist *(Replaces OISD)*
     - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
-  - RU AdList: Counters (Compliments *RU AdList* on sites like Yandex Search)
+  - RU AdList: Counters (Dependency: Vivaldi's built-in ad-blocking source *RU AdList* is enabled)
     - https://easylist-downloads.adblockplus.org/cntblock.txt
 
 ## Evaluating Sources
