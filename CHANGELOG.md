@@ -19,9 +19,3 @@
 <p align="center">
     <img src="Screenshots/CHANGELOG-APF-Import.png" alt="Alt Text">
 </p>
-
-### v1.3 (04-01-2024)
-
-* Added [Anti-Facebook List](https://secure.fanboy.co.nz/fanboy-antifacebook.txt) to the *Custom Tracker Blocking Sources* section.
-* This filter aims to block embedded Facebook trackers and elements embedded on non-Facebook websites.
-* The filter's [maintainer recommends](https://fanboy.co.nz) using it with Vivaldi's built-in ad blocking source *Remove annoyances, can break sites (Fanboy's Annoyance List)*
