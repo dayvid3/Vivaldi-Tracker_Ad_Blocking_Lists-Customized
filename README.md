@@ -1,10 +1,10 @@
 # Vivaldi: Tracker / Ad Blocking Lists (Customized)
 This is the current collection of Tracker and Ad-Blocking sources that I am using with Vivaldi's native ad-blocker, to enhance its effectiveness. I’ve tried to minimize sources with overlapping rules [See below](#evaluating-sources). Enable any additional Regions / Language sources that are relevant to your needs. 
 
-Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tracking-and-ad-blocking/) guide can help you get started (There are mobile guides as well). Once you get to that point, below are my sources of choice.
+Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tracking-and-ad-blocking/) guide can help you get started (There are mobile guides as well). Once you get to that point, my sources of choice are below.
 
 - Disable all the **Built-In** rules except those listed below. You will then have to enable the sources that aren’t on by default.
-  - *My suggestions do not mention the native list, [Allow ads from our partners (support Vivaldi)](https://downloads.vivaldi.com/lists/vivaldi/partners-current.txt). That choice is up to the user.*
+  - *My suggestions do not mention enabling the native list, [Allow ads from our partners (support Vivaldi)](https://downloads.vivaldi.com/lists/vivaldi/partners-current.txt). That choice is up to the user.*
 - Manually add the **Custom** sources in their appropriate sections - Tracker Blocking or Ad-Blocking
 
 ## Tracker Blocking Sources
