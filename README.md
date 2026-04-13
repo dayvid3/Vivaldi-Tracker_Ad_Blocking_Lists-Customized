@@ -1,6 +1,8 @@
 # Vivaldi: Tracker / Ad Blocking Lists (Customized)
 This is the current collection of Tracker and Ad-Blocking sources that I am using with Vivaldi's native ad-blocker, to enhance its effectiveness. I’ve tried to minimize sources with overlapping rules [See below](#evaluating-sources). Enable any additional Regions / Language sources that are relevant to your needs. 
 
+🛠️ Tip for Mobile Users: Disable Preload Pages under *Settings > Privacy and Security*. This ensures trackers aren't loaded before the blocker can intercept them. (Credit: @azdanov)
+
 Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tracking-and-ad-blocking/) guide can help you get started (There are mobile guides as well). Once you get to that point, my sources of choice are below.
 
 - Disable all the **Built-In** rules except those listed below. You will then have to enable the sources that aren’t on by default.
@@ -16,6 +18,8 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
 - **(Add)** Custom Tracker Blocking Sources:
   - AdGuard CNAME disguised trackers list
     - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
+  - Hagezi's Pro DNS Blocklist *(Replaces OISD)*
+    - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 
 ## Ad Blocking Sources
 
@@ -33,8 +37,6 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
 - **(Add)** Custom Ad Blocking Sources:
   - AdGuard Popups filter
     - https://filters.adtidy.org/extension/ublock/filters/19.txt
-  - Hagezi's Pro DNS Blocklist *(Replaces OISD)*
-    - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
   - RU AdList: Counters (Dependency: Vivaldi's built-in ad-blocking source *RU AdList* is enabled)
     - https://easylist-downloads.adblockplus.org/cntblock.txt
 
