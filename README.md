@@ -20,7 +20,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
     - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
   - Hagezi's DNS Blocklist (Choose **one** based on your preference):
     - **Pro (Recommended for Most Users):** Excellent, highly stable protection with virtually zero site breakage. Best for a "set-and-forget" experience.
-      - https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
+      - https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
     - **Pro++ (For Power Users):** Maximum, aggressive tracking protection. While highly stable in recent updates, it may occasionally block elements that require manual troubleshooting.
       - https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
 
