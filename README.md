@@ -32,7 +32,7 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
   - [EasyList](https://downloads.vivaldi.com/easylist/easylist-current.txt)
   - ~~[English (Peter Lowe’s List)](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext)~~
   - [Remove annoyances, can break sites (Fanboy's Annoyance List)](https://secure.fanboy.co.nz/fanboy-annoyance.txt)
-- **(Enable)** Built-In Regions / Languages (Some countries with lots of bad actors, and Japanese for possible Manga / Anime sites):
+- **(Enable)** Built-In Regions / Languages (Some countries with lots of bad actors. E.g. YouTube.com has Russian elements that the RU list blocks.):
   - [Chinese (EasyList China)](https://easylist-downloads.adblockplus.org/easylistchina.txt)
   - [Russian (RU AdList)](https://easylist-downloads.adblockplus.org/advblock.txt)
 
