@@ -41,6 +41,8 @@ Vivaldi’s [Block Trackers and Ads](https://help.vivaldi.com/desktop/privacy/tr
     - https://filters.adtidy.org/extension/ublock/filters/19.txt
   - RU AdList: Counters (Dependency: Vivaldi's built-in ad-blocking source *RU AdList* is enabled)
     - https://easylist-downloads.adblockplus.org/cntblock.txt
+  - YouTube Shorts Blocker Blocker: Hides all YouTube Shorts surfaces (shelves, cards, sidebar, tabs, chips)
+    - https://raw.githubusercontent.com/0xMH/ublock-youtube-shorts/main/youtube-shorts.txt
 
 ## Evaluating Sources
 Ironically, I'm using a uBlock Origin feature to check if different filter lists are being utilized enough to justify adding each list, or if some lists have so much overlap, that they are redundant.  I disable all the existing uBO filters and import the native Vivaldi sources and custom filters.  As shown below, you can see how many rules from each list are being utilized.
